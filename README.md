@@ -1,3 +1,5 @@
+RxpeSenpai.github.io
+
 # RapeSenpai
 新概念Home游戏：雷普先辈，开源自
 [星夜](https://github.com/arcxingye)
